@@ -1,5 +1,5 @@
 ---
-title: 'Hack Typography'
+title: 'Hi There'
 author: bazclark
 layout: post
 permalink: /hack-typography/
@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-I recently spent some time improving the typography of this blog. Here are the 3 things that had the biggest impact on improving my site&#8217;s readability.<!--more-->
+I'm the best English teacher!!!<!--more-->
 
 ### 1. Steal typography from sites that you like
 
